@@ -6,3 +6,5 @@ tubeGenius allows users to add comments to YouTube videos that will be triggered
 This functionality was achieved with Mozilla's Popcorn.js library (with some slight modifications).
 
 Please check this out for a demo: https://www.youtube.com/watch?v=mMwPa72gAZ8
+
+The project is currently hosted on Heroku: http://tubegenius.herokuapp.com/
